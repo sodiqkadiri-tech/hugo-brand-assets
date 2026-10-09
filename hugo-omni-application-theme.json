@@ -1,0 +1,16 @@
+{
+  "styles": {
+    "primary-color": "#111111"
+  },
+  "stylesDark": {
+    "primary-color": "#FFCE07"
+  },
+  "assets": {
+    "logo": "https://REPLACE-WITH-YOUR-HOST/hugo/g_logo_color.svg",
+    "wordmark": "https://REPLACE-WITH-YOUR-HOST/hugo/hugo_logo_dark.svg"
+  },
+  "assetsDark": {
+    "logo": "https://REPLACE-WITH-YOUR-HOST/hugo/g_logo_color.svg",
+    "wordmark": "https://REPLACE-WITH-YOUR-HOST/hugo/hugo_logo_color.svg"
+  }
+}
