@@ -1,0 +1,42 @@
+{
+  "styles": {
+    "action-border-color": "#EBEBEB",
+    "action-text-color": "#171717",
+    "primary-color": "#111111",
+    "primary-text-color": "#FFFFFF",
+    "notification-color": "#DC2626",
+    "navigation-sidebar-background-color": "#FAFAFA",
+    "navigation-sidebar-background-color-hover": "#F4F4F4",
+    "navigation-sidebar-background-color-selected": "#EBEBEB",
+    "navigation-sidebar-color": "#171717",
+    "navigation-sidebar-color-hover": "#171717",
+    "navigation-sidebar-color-selected": "#171717",
+    "navigation-sidebar-icon-color": "#4A4A4A",
+    "navigation-sidebar-icon-color-hover": "#171717",
+    "navigation-sidebar-icon-color-selected": "#171717"
+  },
+  "stylesDark": {
+    "action-border-color": "#3A3A37",
+    "action-text-color": "#EDEDEB",
+    "primary-color": "#FFFFFF",
+    "primary-text-color": "#111110",
+    "notification-color": "#DC2626",
+    "navigation-sidebar-background-color": "#191917",
+    "navigation-sidebar-background-color-hover": "#242422",
+    "navigation-sidebar-background-color-selected": "#2E2E2C",
+    "navigation-sidebar-color": "#EDEDEB",
+    "navigation-sidebar-color-hover": "#FFFFFF",
+    "navigation-sidebar-color-selected": "#FFFFFF",
+    "navigation-sidebar-icon-color": "#B8B8B0",
+    "navigation-sidebar-icon-color-hover": "#FFFFFF",
+    "navigation-sidebar-icon-color-selected": "#FFFFFF"
+  },
+  "assets": {
+    "logo": "https://raw.githubusercontent.com/sodiqkadiri-tech/hugo-brand-assets/924f0d1e53092e9637855221232a180cc1b256be/logo_light_24x24.png",
+    "wordmark": "https://raw.githubusercontent.com/sodiqkadiri-tech/hugo-brand-assets/924f0d1e53092e9637855221232a180cc1b256be/wordmark_light_100x24.png"
+  },
+  "assetsDark": {
+    "logo": "https://raw.githubusercontent.com/sodiqkadiri-tech/hugo-brand-assets/1a204849ffddf26f13686943bfcd4d3ed87d2443/logo_white_24x24.png",
+    "wordmark": "https://raw.githubusercontent.com/sodiqkadiri-tech/hugo-brand-assets/1a204849ffddf26f13686943bfcd4d3ed87d2443/wordmark_white_100x24.png"
+  }
+}
